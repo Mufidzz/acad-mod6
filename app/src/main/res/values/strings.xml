@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">m6</string>
+    <string name="dashboard_subtitle">Modul 6 Pemrograman Module</string>
+    <string name="dashboard_title">CRUD Android MySQL</string>
+</resources>
